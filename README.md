@@ -25,6 +25,7 @@ Stripe<br>
 Shadcn<br>
 TailwindCSS<br>
 <br><br>
+
 🔋 Features<br>
 👉 Authentication and Authorization: Secure user access with registration, login, and route protection.
 
@@ -56,16 +57,10 @@ TailwindCSS<br>
 
 👉 Responsive UI/UX: A seamless experience across devices with a user-friendly interface
 <br><br>
+
 🤸 Quick Start<br>
 Follow these steps to set up the project locally on your machine.<br>
 
-Prerequisites<br>
-
-Make sure you have the following installed on your machine:<br>
-
-Git<br>
-Node.js<br>
-npm (Node Package Manager)<br>
 Cloning the Repository<br>
 <br><br>
 git clone https://github.com/Priyanshu-PM/imagenie.git<br>
