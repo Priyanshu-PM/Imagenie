@@ -1,6 +1,6 @@
 # An AI SaaS Platform
 
-![image](https://github.com/AbhijitKhyade/Imaginify/assets/129264746/a4159767-6ae9-4496-991e-1e9bb4e7c511)
+![image]([https://github.com/AbhijitKhyade/Imaginify/assets/129264746/a4159767-6ae9-4496-991e-1e9bb4e7c511](https://github.com/Priyanshu-PM/Imagenie/blob/master/public/assets/Home1.png))
 
 
 
