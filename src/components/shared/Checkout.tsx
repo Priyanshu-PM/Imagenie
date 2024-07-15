@@ -22,7 +22,7 @@ const Checkout = ({
     const { toast } = useToast();
 
     useEffect(() => {
-        loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY!);
+        loadStripe('pk_test_51PbjPCDmoTsANowIlJjJPwRPNhxN23kY9gxR7FC4kRKLLkO0LoWtNxts3yAMVKdvJl2lOJcaWeQqLMOMV1FOxxVE006HgvjD80');
     }, []);
 
     useEffect(() => {
