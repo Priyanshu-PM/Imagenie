@@ -1,6 +1,8 @@
 # An AI SaaS Platform
 
 ![image](https://github.com/Priyanshu-PM/Imagenie/blob/master/public/assets/Home1.png)
+<br>
+![image](https://github.com/Priyanshu-PM/Imagenie/blob/master/public/assets/Home.png)
 
 
 
