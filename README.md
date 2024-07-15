@@ -1,6 +1,8 @@
 # An AI SaaS Platform
 
-![image](https://github.com/AbhijitKhyade/Imaginify/assets/129264746/a4159767-6ae9-4496-991e-1e9bb4e7c511)
+![image](https://github.com/Priyanshu-PM/Imagenie/blob/master/public/assets/Home1.png)
+<br>
+![image](https://github.com/Priyanshu-PM/Imagenie/blob/master/public/assets/Home.png)
 
 An AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal.
 
